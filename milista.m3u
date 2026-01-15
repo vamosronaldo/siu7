@@ -21,25 +21,25 @@ http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKYWtzv6/logo-dazn-laliga-2-1273.jpg" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo=""https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 720 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 720 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones2  Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones2  Aces
 http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones2 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones2 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHn1XrQS/UEFA-Champions-League-logo.png" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 2 720 Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" tvg-id="M+ Liga de Campeones HD", Liga De Campeones2 720 Aces
 http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 1080 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
@@ -147,6 +147,7 @@ http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="ACB" group-title="LA LIGA", ACB 
 http://127.0.0.1:6878/ace/getstream?id=1c8f3326142645fb3678075c7171d650594be795
+
 
 
 
