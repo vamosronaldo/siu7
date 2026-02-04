@@ -2,7 +2,7 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080P
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
@@ -149,6 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b708083541a46dc15216c8003d7bcf39c458b2a
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
 http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
