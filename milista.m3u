@@ -118,9 +118,9 @@ http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1080
 http://127.0.0.1:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S2qQwLP/eurosport-1-television-channel-logo-eurosport-2-others.jpg" tvg-id="Eurosport 2 HD" group-title="EUROSPORT", EuroSport 2
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S2qQwLP/eurosport-1-television-channel-logo-eurosport-2-others.jpg" group-title="EUROSPORT", EuroSport 2
-http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2 1080
 http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2 720
@@ -149,6 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b708083541a46dc15216c8003d7bcf39c458b2a
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
 http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
