@@ -102,11 +102,11 @@ http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="TNT Sports 1 HD" group-title="FORMULA 1", TNT SPORTS (Moto)
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801‌‌
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS HD
-http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
+http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS 720
@@ -149,6 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b708083541a46dc15216c8003d7bcf39c458b2a
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
 http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
