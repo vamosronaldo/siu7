@@ -132,7 +132,7 @@ http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJQnk1dv/La-Liga-Hypermotion-Black-svg.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LaLiga HYPERMOTION 1080
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN Baloncesto
 http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN Baloncesto 2
@@ -149,6 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b708083541a46dc15216c8003d7bcf39c458b2a
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
 http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
