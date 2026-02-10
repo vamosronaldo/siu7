@@ -14,7 +14,7 @@ http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 720
@@ -52,15 +52,15 @@ http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKZRGBrj/Sky-sports-main-f1.jpg" tvg-id="DAZN F1 HD" group-title="FORMULA 1", SKY SPORTS F1 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgQHYBNn/DAZN-1-svg.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
+http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgQHYBNn/DAZN-1-svg.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgQHYBNn/DAZN-1-svg.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+http://127.0.0.1:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgQHYBNn/DAZN-1-svg.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+http://127.0.0.1:6878/ace/getstream?id=691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgQHYBNn/DAZN-1-svg.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 
 http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 720
@@ -149,6 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b708083541a46dc15216c8003d7bcf39c458b2a
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
 http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
+
 
 
 
