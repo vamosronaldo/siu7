@@ -16,9 +16,9 @@ http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 720
+http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKYWtzv6/logo-dazn-laliga-2-1273.jpg" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
