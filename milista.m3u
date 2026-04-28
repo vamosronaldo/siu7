@@ -1,53 +1,53 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga SD
 http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga SD
 http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKYWtzv6/logo-dazn-laliga-2-1273.jpg" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 720 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z88JtS/images.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", Liga De Campeones
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2  Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2 
 http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2 Multi Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2 
 http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2 720 Aces
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99qz63b1/CHAP1.png" tvg-id="M+ Liga de Campeones 2 HD", Liga De Campeones2 SD
 http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 1080 (Formula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 1080 (Formula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 1080 (Formula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 720 (Formula 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSrqB2LK/DAZN-F1-logo.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 SD (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKZRGBrj/Sky-sports-main-f1.jpg" tvg-id="DAZN F1 HD" group-title="FORMULA 1", SKY SPORTS F1 (Formula 1)
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -63,21 +63,21 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 
 http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS SD
 http://127.0.0.1:6878/ace/getstream?id=d23497596720b47b096ec0f850d6d26a19d1a336
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
 http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
 http://127.0.0.1:6878/ace/getstream?id=01e9b62b0612bb40ad1bea342b833038f8258a65
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrBGr0FW/deportes-por-movistar-plus-logo-png-seeklogo-492841.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES SD
 http://127.0.0.1:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDwmC5pz/images-1.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M DEPORTES 2
 http://127.0.0.1:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
@@ -85,7 +85,7 @@ http://127.0.0.1:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
 http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDwmC5pz/images-1.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M DEPORTES 2
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDwmC5pz/images-1.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M DEPORTES 2 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDwmC5pz/images-1.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M DEPORTES 2 SD
 http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 3 HD" group-title="MOVISTAR", M DEPORTES 3
 http://127.0.0.1:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
@@ -103,33 +103,33 @@ http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801‌‌
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS SD
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S2qQwLP/eurosport-1-television-channel-logo-eurosport-2-others.jpg" tvg-id="Eurosport 2 HD" group-title="EUROSPORT", EuroSport 2
 http://127.0.0.1:6878/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S2qQwLP/eurosport-1-television-channel-logo-eurosport-2-others.jpg" group-title="EUROSPORT", EuroSport 2
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M. LaLiga 2 SD
 http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M. LaLiga 3 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M. LaLiga 3
 http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M. LaLiga 3 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M. LaLiga 3 SD
 http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJQnk1dv/La-Liga-Hypermotion-Black-svg.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LaLiga HYPERMOTION 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJQnk1dv/La-Liga-Hypermotion-Black-svg.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LaLiga HYPERMOTION
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN Baloncesto 1
 http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
@@ -139,8 +139,6 @@ http://127.0.0.1:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
 http://127.0.0.1:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN Baloncesto 1
 http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB POLONIA
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMMGBLFH/acb-logo-portada.jpg" tvg-id="ACB" group-title="ACB", ACB DAZN EVENTOS 2
 http://127.0.0.1:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR", M DEPORTES 5
