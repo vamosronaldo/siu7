@@ -110,7 +110,7 @@ http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r8CH7rQ/vamos-por-movistar-plus-logo-png-seeklogo-493709.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS SD
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+http://127.0.0.1:6878/ace/getstream?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQgm6mM4/imgbin-eurosport-1-eurosport-2-television-channel-1-euro-3-S8-SE7p74-Tw-Rpf1-Zxd9wq-K1-JJ.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport 1
