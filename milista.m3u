@@ -2,15 +2,15 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga SD
-http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RrytBfN/DAZN-La-Liga-logo-svg.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
