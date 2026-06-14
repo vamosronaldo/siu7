@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="LA LIGA", DAZN MUNDIAL
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial HD" group-title="Mundial", DAZN MUNDIAL
 http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="LA LIGA", DAZN MUNDIAL
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial HD" group-title="Mundial", DAZN MUNDIAL
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
