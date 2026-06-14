@@ -2,7 +2,7 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-logo="https://ibb.co/9kt20fN4" tvg-id="DAZN Mundial HD" group-title="Mundial", DAZN MUNDIAL
-http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://ibb.co/9kt20fN4" tvg-id="DAZN Mundial HD" group-title="Mundial", DAZN MUNDIAL
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCF2r9hc/La-Liga-TV-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M. LaLiga
